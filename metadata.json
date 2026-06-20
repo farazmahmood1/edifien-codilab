@@ -1,0 +1,6 @@
+{
+  "name": "Forrof | AI-First Product & Systems Studio",
+  "description": "We design, build, and launch AI-powered products, intelligent business systems, and enterprise software scaling startups and growth businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
